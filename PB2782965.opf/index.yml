@@ -1,0 +1,17 @@
+id: 3c1f780540b645579ba41d44cc436ec9
+annotation_type: index
+revision: '00001'
+annotations:
+  1fd5d38dbdc3496b83bcf7415daa64fb:
+    work_id: JZSD1
+    parts:
+      f9524ccfb8ea43c596d784dbbe8b5030:
+        work_id: JZSD1-1
+        span:
+        - vol: 1
+          start: 0
+          end: 1356
+    span:
+    - vol: 1
+      start: 0
+      end: 1356
